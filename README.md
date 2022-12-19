@@ -6,3 +6,7 @@ Data pulled from Denver Police's dashboard on package theft: https://www.denverg
 For mapping: Shapefiles come from here: https://www.denvergov.org/opendata/dataset/city-and-county-of-denver-police-districts
 
 Converted to GeoJSON for Flourish with Mapshaper: https://mapshaper.org/
+
+Flourish graphics: https://public.flourish.studio/visualisation/12221783/
+
+https://public.flourish.studio/visualisation/12220585/
